@@ -1,6 +1,6 @@
 # Olá, me chamo Camilly! 👋
 
-###🧠 Sobre mim
+### 🧠 Sobre mim
 
 - 🎓 Engenharia de Computação — UFC Sobral
 - 📊 Foco atual: **Ciência de Dados & Machine Learning**
