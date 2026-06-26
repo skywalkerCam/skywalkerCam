@@ -1,6 +1,5 @@
 ### Olá, me chamo Camilly! 👋
-![](https://img.shields.io/badge/Cientista%20de%20Dados-0A66C2?style=for-the-badge)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=99999&color=F7931E&width=300&lines=Cientista+de+Dados)](https://git.io/typing-svg)
 ### 🧠 Sobre mim
 
 - 🎓 Engenharia de Computação — UFC Sobral
