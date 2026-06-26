@@ -1,18 +1,15 @@
 # Olá, me chamo Camilly! 👋
 
----
-
-## 🧠 Sobre mim
+# 🧠 Sobre mim
 
 - 🎓 Engenharia de Computação — UFC Sobral
 - 📊 Foco atual: **Ciência de Dados & Machine Learning**
 - 🤖 Trabalhando ativamente com **LLMs** (Large Language Models)
 - 🧬 Experiência com **aprendizado supervisionado, não supervisionado e clusterização**
 - 🕸️ Experiência com **redes neurais e deep learning**
+- 🔍 Apaixonada por análise de dados, modelos preditivos e inteligência artificial
 
----
-
-## 🛠️ Ferramentas & Tecnologias
+# 🛠️ Ferramentas & Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
