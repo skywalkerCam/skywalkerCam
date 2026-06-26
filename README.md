@@ -1,6 +1,6 @@
 # Olá, me chamo Camilly! 👋
 
-# 🧠 Sobre mim
+###🧠 Sobre mim
 
 - 🎓 Engenharia de Computação — UFC Sobral
 - 📊 Foco atual: **Ciência de Dados & Machine Learning**
@@ -8,7 +8,7 @@
 - 🧬 Experiência com **aprendizado supervisionado, não supervisionado e clusterização**
 - 🕸️ Experiência com **redes neurais e deep learning**
 
-# 🛠️ Ferramentas & Tecnologias
+### 🛠️ Ferramentas & Tecnologias
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,gitlab,vscode" />
 
