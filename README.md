@@ -1,4 +1,5 @@
 ### Olá, me chamo Camilly! 👋
+![](https://img.shields.io/badge/Cientista%20de%20Dados-0A66C2?style=for-the-badge)
 
 ### 🧠 Sobre mim
 
