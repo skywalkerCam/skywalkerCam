@@ -1,4 +1,4 @@
-### /Olá, me chamo Camilly! 👋
+### Olá, me chamo Camilly! 👋
 
 ### 🧠 Sobre mim
 
